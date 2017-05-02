@@ -2,10 +2,11 @@
   "meta": {
     "username": "shunkou",
     "repositoryName": "blog",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "roon"
   },
   "urls": {
     "site": "https://shunkou.github.io/blog",
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "しゅんこメモ",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
