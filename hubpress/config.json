@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://shunkou.github.io/blog",
     "hubpress": "https://shunkou.github.io/blog",
-    "theme": "//shunkou.github.io/blog/themes/casper",
+    "theme": "//shunkou.github.io/blog/themes/roon",
     "images": "https://shunkou.github.io/blog/images"
   },
   "initialisationConfigComponent": {
