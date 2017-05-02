@@ -1,4 +1,4 @@
-// = 【FGO】CCCコラボ(BBちゃんの逆襲)メモ
+// = FGO_CCC_colabo
 // :hp-image: /covers/cover.png
 // :published_at: 2017-05-01
 // :hp-tags: FGO
